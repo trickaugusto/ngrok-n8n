@@ -1,0 +1,14 @@
+{
+  "name": "ngrok-n8n",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "elysia": "^0.6.24"
+  }
+}
