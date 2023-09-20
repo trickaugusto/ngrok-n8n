@@ -1,6 +1,9 @@
 {
   "name": "ngrok-n8n",
   "module": "index.ts",
+  "scripts": {
+    "dev": "bun --watch src/index.ts"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
